@@ -1,0 +1,21 @@
+/* Global Body Styles */
+body {
+  margin: 0;
+  font-family: 'Inter', 'Segoe UI', 'Roboto', 'Ubuntu', 'Helvetica Neue', sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  background-color: #f9fafb; /* Subtle light gray for a clean background */
+  color: #333; /* Neutral text color for readability */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Code Styles */
+code {
+  font-family: 'Fira Code', Menlo, Monaco, Consolas, 'Courier New', monospace;
+  font-size: 14px;
+  color: #d63384; /* Stylish magenta for code text */
+  background-color: #f8f9fa; /* Light gray background for code blocks */
+  padding: 2px 4px;
+  border-radius: 3px;
+}
